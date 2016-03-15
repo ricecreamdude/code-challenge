@@ -1,2 +1,1 @@
-# code-challenge
-code challenge lol
+# two-resource-angular
